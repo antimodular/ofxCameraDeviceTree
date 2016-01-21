@@ -16,3 +16,7 @@ This addon allows me to query for localizedDisplayName, uniqueID and modelUnique
 
 # Operating systems
 Has only been tested on osx 10.10 with OF 0.9.0
+
+
+#Links
+<http://bworby.com/bwsnippet/46>
